@@ -28,8 +28,6 @@ A continuación se describen las pantallas principales del prototipo actual:
 ![Trivia](screenshots/trivia_pantalla2.png)
 
 
-## Actividades y Juegos Contextualizados
+## Actividades o Juegos:
 
-Cada zona de la universidad permite lanzar actividades para reforzar el conocimiento del campus.
-
-* **[Nombre de tu Juego]:** Ubicado en la carpeta `/propuesta/trivia-pavel/`.
+* **[Trivia academica]:** Ubicado en la carpeta `/propuesta/trivia-pavel/`.
