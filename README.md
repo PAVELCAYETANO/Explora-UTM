@@ -22,8 +22,8 @@ A continuación se describen las pantallas principales del prototipo actual:
 4.  **Rutas y Senderos:** Sugerencias de recorridos dentro del campus, como el "Circuito Deportivo" o el camino al "Mirador del Atardecer", indicando tiempo estimado y dificultad.
 
 ### Bocetos de la Aplicación
-![Pantalla Principal](screenshots/inicio_explora_pantalla.png)
-![Trivia](screenshots/trivia_pantalla.png)
+<img src="screenshots/inicio_explora_pantalla.png" width="300" alt="Pantalla Principal">
+<img src="screenshots/trivia_pantalla.png" width="300" alt="Pantalla de Trivia">
 
 
 ## Actividades o Juegos:
