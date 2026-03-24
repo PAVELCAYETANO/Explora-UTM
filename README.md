@@ -24,6 +24,9 @@ A continuación se describen las pantallas principales del prototipo actual:
 ### Bocetos de la Aplicación
 ![Pantalla Principal](screenshots/home.png)
 ![Detalle de Lugar](screenshots/details.png)
+![Trivia](screenshots/trivia_pantalla.png)
+![Trivia](screenshots/trivia_pantalla2.png)
+
 
 ## Actividades y Juegos Contextualizados
 
